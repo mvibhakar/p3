@@ -11,6 +11,5 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'CalculateController@index');
+Route::get('/calculate-gpa', 'CalculateController@calculateGPA');

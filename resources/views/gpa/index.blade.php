@@ -52,6 +52,7 @@
     @endif
 
     @if($finalGPA)
-        <h2>Your GPA is: <em>{{ $finalGPA }}</em>.</h2>
+        <br>
+        <h2 class='alert alert-info'>Your GPA is: <em>{{ $finalGPA }}</em>.</h2>
     @endif
 @endsection

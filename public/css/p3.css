@@ -1,9 +1,25 @@
 body {
+    margin-top: 20px;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
+}
+
+header {
     text-align: center;
 }
 
 h1 {
     font-weight: 400;
+}
+
+h6 {
+    text-align: center;
+}
+
+#form-end {
+    text-align: center;
+}
+
+.input {
+    margin-bottom: 10px;
 }

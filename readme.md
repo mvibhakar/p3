@@ -3,10 +3,11 @@
 + Production URL: <http://p3.maiavibhakar.me>
 
 ## Outside resources
-*Your list of outside resources go here*
++ <https://fonts.google.com/>
+
 
 ## 3 Unique inputs
-*You don't have to list all inputs, just 3 unique ones. The following is an example of what I'd put if my project was the xkcd Password Generator: (1) Text input to indicate number of words in password, (2) Checkbox to indicate whether to include a number (3) Dropdown to indicate what symbol to include*
+(1) Text input to indicate grade in each class, (2) Dropdown to indicate type of class (3) Check-box to indicate if GPA is meant to be weighted.
 
 ## Packages
 + barryvdh/laravel-debugbar

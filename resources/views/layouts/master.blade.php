@@ -14,7 +14,7 @@
 <body>
 
 <header>
-    <a href='/'><h1>High School GPA Calculator</h1></a>
+    <a href='/'><h1 class='display-4'>High School GPA Calculator</h1></a>
 </header>
 
 <section id='main'>
